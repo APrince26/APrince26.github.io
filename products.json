@@ -1,0 +1,102 @@
+[
+    {
+    "name": "NBA 2k24",
+    "overview": "Stunning graphics, lifelike player animations, and authentic gameplay. Build your dream team, dominate the courts, and rise to stardom.",
+    "price": "$55",
+    "categories": [
+        "Simulation Games",
+        "Gaming and Entertainment",
+        "Basketball Games"
+    ]
+},
+{
+    "name": "Madden NFL 24",
+    "overview": "Gear up and take control of your favorite NFL teams and players. Feel the intensity of every pass, tackle, and touchdown.",
+    "price": "$29.99",
+    "categories": [
+        "American Football Games",
+        "Gaming and Entertainment",
+        "Multiplayer Sports"
+    ]
+},
+{
+    "name": "EA Sports FC 24",
+    "overview": "Get ready to dominate the field. Choose from an extensive roster of real-life clubs and players, and lead your team to victory.",
+    "price": "$34.99",
+    "categories": [
+        "Soccer Games",
+        "Gaming and Entertainment",
+        "Competitive Gaming"
+    ]
+},
+{
+    "name": "WWE 2k24",
+    "overview": "Step into the ring and unleash your inner superstar with WWE 2k24. Enhanced customization options, and multiplayer action.",
+    "price": "$69.99",
+    "categories": [
+        "WWE Games",
+        "Wrestling Games",
+        "Gaming and Entertainment"
+    ]
+},
+{
+    "name": "UFC 5",
+    "overview": "Step into the Octagon and unleash your fighting prowess. Experience the adrenaline-pumping intensity of mixed martial arts.",
+    "price": "$39.99",
+    "categories": [
+        "MMA Games",
+        "Fighting Games",
+        "Realistic Fighting"
+    ]
+},
+{
+    "name": "Call of Duty: Modern Warfare II",
+    "overview": "Prepare for intense in a world on the brink of war, step into the boots of elite soldiers from across the globe and experience modern warfare.",
+    "price": "$69.99",
+    "categories": [
+        "Multiplayer Games",
+        "Campaign",
+        "Modern Warfare"
+    ]
+},
+{
+    "name": "Spider-Man 2",
+    "overview": "Swing into action with Spider-Man 2, and unleash your inner superhero, and save the day in this thrilling open world adventure.",
+    "price": "$69.99",
+    "categories": [
+        "Open World",
+        "Combat",
+        "Superhero"
+    ]
+},
+{
+    "name": "God of War",
+    "overview": "Embark on an epic journey of redemption and revenge. Follow the path of Kratos, a once-vicious Spartan warrior.",
+    "price": "$49.99",
+    "categories": [
+        "Adventure Games",
+        "Single Player",
+        "Fantasy"
+    ]
+},
+{
+    "name": "Grand Theft Auto 5",
+    "overview": "Experience the open-world adventure filled with crime, chaos, and consequences. Play as three distinct protagonists, each with unique storylines.",
+    "price": "$39.99",
+    "categories": [
+        "Open-World Games",
+        "Adventure Games",
+        "Multiplayer"
+    ]
+},
+{
+    "name": "The Last Of Us Part II",
+    "overview": "Step into a post-apocalyptic world ravaged by a deadly virus. Explore the depths of human emotion, confront moral dilemmas, fight for survival.",
+    "price": "$49.99",
+    "categories": [
+        "Horror Games",
+        "Survival Games",
+        "Single-Player"
+    ]
+}
+]
